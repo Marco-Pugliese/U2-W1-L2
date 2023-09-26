@@ -1,0 +1,8 @@
+@media screen and (min-width: 780px) {
+  footer .fa-calendar-alt {
+    bottom: 85vh;
+  }
+  footer .fa-plus-square {
+    bottom: 92vh;
+  }
+}

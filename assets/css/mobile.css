@@ -1,0 +1,9 @@
+h1 {
+  font-size: 2.5em;
+  font-weight: 900;
+}
+@media screen and (min-width: 560px) and (max-width: 780px) {
+  #toBeDiv {
+    display: inline-block;
+  }
+}
